@@ -26,14 +26,15 @@ gruvbox: https://github.com/dawikur/base16-gruvbox-scheme
 hardcore: https://github.com/callerc1/base16-hardcore-scheme
 helios: https://github.com/reyemxela/base16-helios-scheme
 heetch: https://github.com/tealeg/base16-heetch-scheme
+helios: https://github.com/reyemxela/base16-helios-scheme
 horizon: https://github.com/michael-ball/base16-horizon-scheme
 humanoid: https://github.com/humanoid-colors/base16-humanoid-schemes
 ia: https://github.com/aramisgithub/base16-ia-scheme
 icy: https://github.com/icyphox/base16-icy-scheme
 kimber: https://github.com/akhsiM/base16-kimber-scheme
 materia: https://github.com/Defman21/base16-materia
-materialtheme: https://github.com/ntpeters/base16-materialtheme-scheme
 material-vivid: https://github.com/joshyrobot/base16-material-vivid-scheme
+materialtheme: https://github.com/ntpeters/base16-materialtheme-scheme
 mellow: https://github.com/gidsi/base16-mellow-scheme
 mexico-light: https://github.com/drzel/base16-mexico-light-scheme
 nebula: https://github.com/Misterio77/base16-nebula-scheme
@@ -43,6 +44,7 @@ onedark: https://github.com/tilal6991/base16-onedark-scheme
 outrun: https://github.com/hugodelahousse/base16-outrun-schemes
 papercolor: https://github.com/jonleopard/base16-papercolor-scheme
 pasque: https://github.com/Misterio77/base16-pasque-scheme
+pinkvision: https://github.com/lainproliant/base16-pinkvision
 porple: https://github.com/AuditeMarlow/base16-porple-scheme
 purpledream: https://github.com/archmalet/base16-purpledream-scheme
 rebecca: https://github.com/vic/base16-rebecca
@@ -61,9 +63,9 @@ twilight: https://github.com/hartbit/base16-twilight-scheme
 unikitty: https://github.com/joshwlewis/base16-unikitty
 vice: https://github.com/Thomashighbaugh/base16-vice-scheme
 woodland: https://github.com/jcornwall/base16-woodland-scheme
-zenburn: https://github.com/elnawe/base16-zenburn-scheme
 xcode-dusk: https://github.com/gonsie/base16-xcode-dusk-scheme
 vulcan: https://github.com/andreyvpng/base16-vulcan-scheme
+zenburn: https://github.com/elnawe/base16-zenburn-scheme
 
 # If your scheme is in this repository, please give it a new home!
 unclaimed: https://github.com/chriskempson/base16-unclaimed-schemes

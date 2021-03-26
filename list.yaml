@@ -10,16 +10,16 @@ classic: https://github.com/detly/base16-classic-scheme
 codeschool: https://github.com/blockloop/base16-codeschool-scheme
 colors: https://github.com/hakatashi/base16-colors-scheme
 cupertino: https://github.com/Defman21/base16-cupertino
-darkmoss: https://github.com/avanzzzi/base16-darkmoss-scheme
-darkviolet: https://github.com/ruler501/base16-darkviolet-scheme
 cyberpunk-dark: lainproliant.com:~/private/git/base16-cyberpunk-dark
 cyberpunk-neon: lainproliant.com:~/private/git/base16-cyberpunk-neon
+darkmoss: https://github.com/avanzzzi/base16-darkmoss-scheme
+darkviolet: https://github.com/ruler501/base16-darkviolet-scheme
 default: https://github.com/chriskempson/base16-default-schemes
 dirtysea: https://github.com/tartansandal/base16-dirtysea-scheme
 dracula: https://github.com/dracula/base16-dracula-scheme
 edge: https://github.com/cjayross/base16-edge-schemes
-equilibrium: https://github.com/carloabelli/base16-equilibrium-scheme
 ekvoli: https://github.com/lainproliant/base16-ekvoli
+equilibrium: https://github.com/carloabelli/base16-equilibrium-scheme
 espresso: https://github.com/alexmirrington/base16-espresso-scheme
 eva: https://github.com/kjakapat/base16-eva-scheme
 framer: https://github.com/jssee/base16-framer-scheme
@@ -29,8 +29,8 @@ gigavolt: https://github.com/Whillikers/base16-gigavolt-scheme
 github: https://github.com/Defman21/base16-github-scheme
 gruvbox: https://github.com/dawikur/base16-gruvbox-scheme
 hardcore: https://github.com/callerc1/base16-hardcore-scheme
-helios: https://github.com/reyemxela/base16-helios-scheme
 heetch: https://github.com/tealeg/base16-heetch-scheme
+helios: https://github.com/reyemxela/base16-helios-scheme
 helios: https://github.com/reyemxela/base16-helios-scheme
 helltaker: https://github.com/lainproliant/base16-helltaker
 horizon: https://github.com/michael-ball/base16-horizon-scheme
@@ -51,6 +51,7 @@ onedark: https://github.com/tilal6991/base16-onedark-scheme
 outrun: https://github.com/hugodelahousse/base16-outrun-schemes
 papercolor: https://github.com/jonleopard/base16-papercolor-scheme
 pasque: https://github.com/Misterio77/base16-pasque-scheme
+pinkpill: https://github.com/lainproliant/base16-pinkpill
 pinkvision: https://github.com/lainproliant/base16-pinkvision
 porple: https://github.com/AuditeMarlow/base16-porple-scheme
 purpledream: https://github.com/archmalet/base16-purpledream-scheme
@@ -69,9 +70,9 @@ tomorrow: https://github.com/chriskempson/base16-tomorrow-scheme
 twilight: https://github.com/hartbit/base16-twilight-scheme
 unikitty: https://github.com/joshwlewis/base16-unikitty
 vice: https://github.com/Thomashighbaugh/base16-vice-scheme
+vulcan: https://github.com/andreyvpng/base16-vulcan-scheme
 woodland: https://github.com/jcornwall/base16-woodland-scheme
 xcode-dusk: https://github.com/gonsie/base16-xcode-dusk-scheme
-vulcan: https://github.com/andreyvpng/base16-vulcan-scheme
 zenburn: https://github.com/elnawe/base16-zenburn-scheme
 
 # If your scheme is in this repository, please give it a new home!
